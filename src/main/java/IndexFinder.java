@@ -17,6 +17,10 @@ public class IndexFinder {
      *   arr = {2, 9, 2, 5}     →  returns 0  (first occurrence of 2)
      */
     public int indexOfMin(int[] arr) {
+        int tracker = 0;
+        for (int i = ) {
+
+        }
         // TODO: initialize a variable to track the index of the minimum (start at 0)
 
         // TODO: loop from index 1 to arr.length - 1
